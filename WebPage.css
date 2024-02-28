@@ -152,13 +152,9 @@ nav li a:hover{
     }
     nav li a{
      
-        font-size: 12px;
+        font-size: 17px;
         text-transform: uppercase;
-<<<<<<< HEAD
-        margin-left : -50px; 
-=======
-        margin-left:-50px;
->>>>>>> 55f2327d521cd4be0312365249b8cf82691e20eb
+        margin-top: -15px !important;
         color: #FFDDBF;
         text-decoration: none;
         font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -166,11 +162,7 @@ nav li a:hover{
     }
     nav .logo p{
         margin-top: -10px;
-<<<<<<< HEAD
-        margin-left:70px ;
-=======
-        margin-left: 70px ;
->>>>>>> 55f2327d521cd4be0312365249b8cf82691e20eb
+        margin-left:190px ;
         margin-bottom: 5px;
          font-size: 35px;
          font-weight: bold;
@@ -189,25 +181,7 @@ nav li a:hover{
         position: fixed;
         background-color: #403C01;
     }
-<<<<<<< HEAD
-    .container1 .heading1{
-=======
-
-      .container1 .heading1{
->>>>>>> 55f2327d521cd4be0312365249b8cf82691e20eb
-        text-align: center;
-        padding: 20px 0px 20px 0px !important;
-        color:#59341E;
-        font-size: 40px !important;
-        font-weight: 600 !important;
-    }
-    .container1{
-        background-color: #FFDDBF;
-        padding: 40px 30px 0px 30px !important;
-        padding-bottom: 50px !important;
-    }
 }
-
 
 
 .container1{
